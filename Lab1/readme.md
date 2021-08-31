@@ -1,7 +1,7 @@
 ## Javi Rodriguez / August 31, 2021
 
 ## Executive Summary
-In Lab 1, we learn the how to setup a GitHub repository and the history and components of information systems. GitHub is an incredibly useful tool for collaborative and organized development. Understanding the components of information systems and how they work together allows us to have a better understanding of information systems as a whole. The history of information systems shows the beginnings of much of the technology that is still in use today. I found the PC revolution and the transition of computers from being a business product to a household product to be the most interesting. Learning the concept of information systems can help us to see the value in a tool like GitHub for development.
+In Lab 1, we learn the how to setup a GitHub repository and the history and components of information systems. GitHub is an incredibly useful tool for collaborative and organized development. Understanding the components of information systems and how they work together allows us to have a better understanding of information systems as a whole. The history of information systems shows the beginnings of much of the technology that is still in use today. I found the PC revolution and the transition of computers from being a business product to a household product to be the most interesting. Learning the concept of information systems can help us to see the value in a tool like GitHub for creation, development, and collaboration.
 
 ## Information System Components
 - Hardware (ex. computer)
