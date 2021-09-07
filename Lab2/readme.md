@@ -13,6 +13,7 @@ Unlike hard drives, solid state drives have no moving parts. Rather than being p
 In order for a program to run, data must be loaded into RAM first. That data can then be accesed by the CPU to run the program. If there is not enough memory for data to be kept on RAM, it must be kept on the much slower hard drive. That extra data is then continously passed from RAM to the CPU. By increasing the amount of RAM, more data can be loaded onto the RAM. This allows a computer to run much faster as there is no need to keep accessing the hard drive. 64 and 32 bit data paths refer to number of bits of data that can be transferred in 1 clock cycle. 64 bit data paths are twice as fast as 32 bit data paths because they can transfer twice as much data in 1 clock cycle.
 
 ### ALU and the Control Unit
+The control unit recieves intructions from RAM and breaks them down into specific commands for other components of the CPU to perform. The Arithmetic Logic Unit (ALU) performs all of the mathematic operations inside the CPU. The ALU takes two inputs which are the numbers that the ALU will use. When the control unit recieves an intruction from Ram, it tells the ALU what type of operation to perform on its inputs. The ALU performs that operation and outputs the answer. For certain operations, the output can be ignored. Instead the ALU sends flags back to the control unit. These flags tell the control unit what to do when it receives the next instruction.
 ### CPU, Input & Output
 ### Logic Gates 
 ### IEEE - Ethically Aligned Design
