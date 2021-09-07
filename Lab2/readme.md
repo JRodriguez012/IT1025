@@ -10,6 +10,8 @@ Latency rates include both seek time and rotational latency. Seek time is the am
 #### Solid State vs. Hard Drives
 Unlike hard drives, solid state drives have no moving parts. Rather than being physically written onto a disk, data is split into word length pieces and stored in memory. Data can then be accessed almost instantly using unique system-wide addresses, similar to RAM. Solid state drives have no latency because there is no physical disk that needs to be rotated into location for data to be accessed. This allows data to be fragmented without affecting the performance of the solid state drive. As there are no moving parts, solid state drives are also less likely to have mechanical problems.
 #### Random Access Memory
+In order for a program to run, data must be loaded into RAM first. That data can then be accesed by the CPU to run the program. If there is not enough memory for data to be kept on RAM, it must be kept on the much slower hard drive. That extra data is then continously passed from RAM to the CPU. By increasing the amount of RAM, more data can be loaded onto the RAM. This allows a computer to run much faster as there is no need to keep accessing the hard drive. 64 and 32 bit data paths refer to number of bits of data that can be transferred in 1 clock cycle. 64 bit data paths are twice as fast as 32 bit data paths because they can transfer twice as much data in 1 clock cycle.
+
 ### ALU and the Control Unit
 ### CPU, Input & Output
 ### Logic Gates 
