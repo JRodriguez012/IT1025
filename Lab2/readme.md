@@ -1,7 +1,7 @@
 ## Javi Rodriguez / Date
 
 ## Executive Summary 
-Lab 2 explores the different hardware components of a computer and how they interact with each other. 
+Lab 2 explores the different hardware components of a computer and how they interact with each other. Solid state drives and hard drives allows for long term storage of data, while random access memory (RAM) allows for data to be temporarily stored and passed to the CPU to be operated on. The CPU is made of different components that each can handle certain instructions passed from RAM. In this lab, we also learn the different ways in which data can be represent such as decimal, binary, and hexadecimal numbers. I found hexadecimal color representation to be the most interesting as it is used in most photo editing and drawing software.
 
 ## Hardware
 ### Hard Drives and Memory
