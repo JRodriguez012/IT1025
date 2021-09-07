@@ -23,6 +23,7 @@ The Institute of Electrical and Electronics Engineers (IEEE) is an association o
 
 ## Data Representation
 ### Decimal, Binary and Hexadecimal
+Decimal numbers are base 10. Decimal numbers use 10 digits (0, 1, 2, 3, 4, 5, 6, 7, 8, 9) and the place value of those digits represent that digit times a power of 10. Binary numbers are base 2. Binary numbers use 2 digits (0, 1) and the place of each digit represents that digit times a power of 2. Hexadecimal numbers are base 16. Hexadecimal numbers use 16 symbols to represent a number, 10 digits (0, 1, 2, 3, 4, 5, 6, 7, 8, 9) and 6 letters (A, B, C, D, E, F). The place of each symbol represents that symbol times a power of 16.
 ### Hexadecimal Color Representation
 
 ## Conclusion
