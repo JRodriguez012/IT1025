@@ -19,6 +19,7 @@ Input devices take physical input from the user and converts that input into inf
 ### Logic Gates
 A truth table shows the output that you get (1 or 0) for every possible input. Each row of a truth table describes one of the possible sets of input and its corresponding output. The AND logic gate outputs a 1 if both of its inputs are a 1. The OR logic gate outputs a 1 if either of its inputs are a 1. Compared to the OR logic gate, the AND gate truth table only has one possible set of inputs that output a 1 (both inputs being 1).
 ### IEEE - Ethically Aligned Design
+The Institute of Electrical and Electronics Engineers (IEEE) is an association of professionals involved in electrical, electronic, computing, science, and technology fields. The purpose of IEEE is to promote the innovation of technology for the benefit of humanity. IEEE's focus on ethics encourages the use of technology around the world in a responsible way. IEEE aims to raise awareness on ethical issues and promote ethical behavior among professionals working in IEEE related fields.
 
 ## Data Representation
 ### Decimal, Binary and Hexadecimal
