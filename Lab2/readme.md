@@ -1,7 +1,7 @@
 ## Javi Rodriguez / Date
 
 ## Executive Summary 
-Include your executive summary here...
+Lab 2 explores the different hardware components of a computer and how they interact with each other. 
 
 ## Hardware
 ### Hard Drives and Memory
