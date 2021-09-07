@@ -25,6 +25,6 @@ The Institute of Electrical and Electronics Engineers (IEEE) is an association o
 ### Decimal, Binary and Hexadecimal
 Decimal numbers are base 10. Decimal numbers use 10 digits (0, 1, 2, 3, 4, 5, 6, 7, 8, 9) and the place value of those digits represent that digit times a power of 10. Binary numbers are base 2. Binary numbers use 2 digits (0, 1) and the place of each digit represents that digit times a power of 2. Hexadecimal numbers are base 16. Hexadecimal numbers use 16 symbols to represent a number, 10 digits (0, 1, 2, 3, 4, 5, 6, 7, 8, 9) and 6 letters (A, B, C, D, E, F). The place of each symbol represents that symbol times a power of 16.
 ### Hexadecimal Color Representation
-
+#ab00ff represents a violet color. The first two symbols in a hexadecimal color value represent the amount of red in a color. The color has a red value of 171 as ab has a decimal value of 171. The middle two values in a hexadecimal color value represent the amount of green in a color. Since 00 has a decimal value of 0, #ab00ff has no green in it. The last two symbols represent the amount of blue in a color. #ab00ff has a blue value of 255 since ff has a decimal value of 255. This color could be problematic for colorblind users. We need to carefully consider what other colors we should pair with this color and whether this color is being used exclusively to convey meaning.
 ## Conclusion
 Include your conclusion here...
