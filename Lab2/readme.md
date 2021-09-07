@@ -15,6 +15,7 @@ In order for a program to run, data must be loaded into RAM first. That data can
 ### ALU and the Control Unit
 The control unit recieves intructions from RAM and breaks them down into specific commands for other components of the CPU to perform. The Arithmetic Logic Unit (ALU) performs all of the mathematic operations inside the CPU. The ALU takes two inputs which are the numbers that the ALU will use. When the control unit recieves an intruction from Ram, it tells the ALU what type of operation to perform on its inputs. The ALU performs that operation and outputs the answer. For certain operations, the output can be ignored. Instead the ALU sends flags back to the control unit. These flags tell the control unit what to do when it receives the next instruction.
 ### CPU, Input & Output
+Input devices take physical input from the user and converts that input into information for the CPU to handle. The CPU process that information and perfomrs any necessary calculations. The information is then sent to an output device to be converted into physical output. In the situation that you are pumping gas at a gas station, the input device is the cashier that takes your money or card reader that takes the card that you are using to buy gas. The physical pump acts as the CPU calculating how much gasoline to pump out if you used cash or how much gasoline is being pumped and its cost if you used a card. The nozzle is the output device that sprays the actual gasoline into your car's tank.
 ### Logic Gates 
 ### IEEE - Ethically Aligned Design
 
