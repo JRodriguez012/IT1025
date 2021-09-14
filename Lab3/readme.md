@@ -10,6 +10,7 @@ There are a few different categories of software. Operating systems manage all o
 * Application Software (Ex. Microsoft Word)
 * Utility Software (Ex. Windows Defender)
 ### ERP
+Enterprise Resource Planning (ERP) systems are used to bring an organization's information under centralized control. ERP software utlizes a central database that is used by many employees of an organization to edit and save information from the same data source. ERP systems include different modules that provide functionality for each of the essential components of a business. Systems Analysis and Program Development (SAP) is an example of an ERP software that provides large organizations with the ability to manage components of their business such as finances, order management, supply chain, etc.
 
 ## Virtualization
 ### Problems Solved by Virtualization
