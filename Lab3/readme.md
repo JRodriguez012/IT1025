@@ -14,8 +14,9 @@ Enterprise Resource Planning (ERP) systems are used to bring an organization's i
 
 ## Virtualization
 ### Problems Solved by Virtualization
+Virtualization allows servers to be used more efficiently, which decreases the cost of buying and maintaining servers. If you have a number of servers that run individual tasks and each server is being used at a fraction of its capacity, virtualization can split a single server into multiple parts that can handle their independent tasks.
 ### Role of Hypervisor
-
+A hypervisor is a software that seperates the physical resources of a machine from the virtual machine and divides up those resources to be used by the virtual environment. Hypervisors can be installed directly onto hardware like a server, or sit on top of an operating system.
 ## Python
 ### Pseudo-Code Nature of Python
 ### Interpreted vs. Compiled Language
