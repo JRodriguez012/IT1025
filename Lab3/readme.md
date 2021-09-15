@@ -19,7 +19,10 @@ Virtualization allows servers to be used more efficiently, which decreases the c
 A hypervisor is a software that seperates the physical resources of a machine from the virtual machine and divides up those resources to be used by the virtual environment. Hypervisors can be installed directly onto hardware like a server, or sit on top of an operating system.
 ## Python
 ### Pseudo-Code Nature of Python
+Pseudo-code is a plain language description of the steps of a piece of code. It has the structure of a programming language, but is meant to be read by humans rather than a machine. The pseudo-code nature of Python describes how Python code is able to be read like english.
+
 ### Interpreted vs. Compiled Language
+A compiled language is a language that has to be compiled meaning the source language is converted into a language that is used by the computer. When a program written in a compiled language is run, the linker/loader software copies the program from hard disk to memory and runs it. An interpreted language does not need to be compiled. A program written in an interpreted language can run directly from the source code.
 
 ## Career Exploration
 ### Handshake
