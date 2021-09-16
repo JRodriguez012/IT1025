@@ -36,7 +36,7 @@ Tri-C offers a Post-Degree Certificate in Programming and Development. This cert
 ### Co-ops / Internships
 To become co-op ready, students must first participate in the co-op orientation process through the Career Center. They must upload a resume for approval by a Career Coach at Handshake. They then work with an Employer Relations Specialist to apply and interview with co-op placements. Finally, they must complete and sign a "Cooperative Education Agreement" form and register for college credit. Co-ops and internships provide students with real-world experience to prepare for jobs related to their field. These forms of experiential learning boost student's marketability and allow them to use what they learned in the classroom.
 ### Industry Associations / Student Organizations
-
+Collegiate Cyber Defense Competion (CCDC) is a competition that provides institutions with a controlled, competitive environment to assess student's understanding in the skills required to protect a corporate network infrastructure. This program was designed to give students the opportunity to apply the skills they have learned in the classroom and to encourage teamwork and communication within and among teams.
 ## Conclusion
 
 Include your professional conclusion here...
