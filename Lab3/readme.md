@@ -1,8 +1,7 @@
-## Your Name / Date
+## Javi Rodriguez / September 16, 2021
 
 ## Executive Summary 
-Include your executive summary here...
-
+Lab 3 covers the different types of software and how business use Enterprise Resource Planning (ERP) software to manage the important components of their business. Virtualization allows hardware to be used more efficiently by dividing up a machines resources to be to be used by a virtual environment for an individual task. In this lab, we learn about the Python programming languages and some of the basics of programming with Python. Finally, we explore careers in computing, certificates for advancing a career in computing, and the benefits of pursuing a co-op or internship.
 ## Software
 There are a few different categories of software. Operating systems manage all of the programs that run on the computer. They provide users with a user-interface, the ability to manage the hardware resources of the computer, and a platform for software developers to write applications. Application software exist to perform a specific task. Productivity software like word processors, spreadsheets, and presentation software are types of application software that are often used in the workplace. Utility software allows a computer to be fixed or modified in some way. Utility software is made to fill shortcomings in operating systems.
 ### Types of Software
@@ -38,5 +37,4 @@ To become co-op ready, students must first participate in the co-op orientation 
 ### Industry Associations / Student Organizations
 Collegiate Cyber Defense Competion (CCDC) is a competition that provides institutions with a controlled, competitive environment to assess student's understanding in the skills required to protect a corporate network infrastructure. This program was designed to give students the opportunity to apply the skills they have learned in the classroom and to encourage teamwork and communication within and among teams.
 ## Conclusion
-
-Include your professional conclusion here...
+In this lab, I learned the value of virtualization for using hardware efficiently. Before this lab, I assumed there was a seperate machine for each service. I also learned more about the Python programming language. I have heard of Python before but have never used it. It feels strange to not use any brackets or semicolons, but I see how the lack of focus on syntax can make code more readable. I activated my handshake account and explored some of the opportunites in my area and across the country. I am excited to use the tools and knowldge from this lab to prepare myself for obtaining an intership in the future.
