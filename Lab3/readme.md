@@ -26,10 +26,15 @@ A compiled language is a language that has to be compiled meaning the source lan
 
 ## Career Exploration
 ### Handshake
+I found it easy to activate my Handshake account and setup my profile. I am very interested in obtaining a software engineering internship sometime in the future, so I will definitely be using Handshake to look for an opportunity to do so. In the short time that I spent on Handshake, I have already learned about some of the opportunities in the Cleveland area that I likely would not have known about otherwise.
 ### Bureau of Labor Statistics
+The Bureau of Labor Statistics reports that the median pay for software developers in 2020 was $110,140 per year. Software developers typically need a bachelor's degree in computer and information technology or a related field. The employment of software developers is projected to grow 22 percent from 2020 to 2030, much faster than the average for all occupations. On average there are projected to be 189,200 openings for software developers each year.
 ### Certifications
+Certified Information Systems Security Professional (CISSP) is a cybersecurity certification that verifies an individual can effectively design, implement, and manage a best-in-class cybersecurity program. CISSP is ideal for someone that wants to prove their knowledge in a variety of security practices and principles. Topics include security and risk management, asset security, security architecture and engineering, communication and network security, identity and access management, security assessment and testing, security operations, and software development security. To qualify for CISSP you must pass the exam and have at least five years of paid work experience.
 ### Certificates and Degrees
+Tri-C offers a Post-Degree Certificate in Programming and Development. This certificate is designed to enhance skills in the object-oriented environment of programming, database, and web technologies. This program prepares students to apply knowledge of programming at the enterprise level using industry standards and tools.
 ### Co-ops / Internships
+To become co-op ready, students must first participate in the co-op orientation process through the Career Center. They must upload a resume for approval by a Career Coach at Handshake. They then work with an Employer Relations Specialist to apply and interview with co-op placements. Finally, they must complete and sign a "Cooperative Education Agreement" form and register for college credit. Co-ops and internships provide students with real-world experience to prepare for jobs related to their field. These forms of experiential learning boost student's marketability and allow them to use what they learned in the classroom.
 ### Industry Associations / Student Organizations
 
 ## Conclusion
