@@ -26,6 +26,7 @@ A data type is a category of values. Every value belongs to exactly one data typ
 ## Graphics
 
 ### Raster vs. Vector Graphics
+A raster image is made up of thousands of tiny pixels. Small raster images lose quality when they are enlarged because these individual pixels become more visible. Vector graphics are rendered using a special form of geometry. Vector graphics are able to be enlarged without losing quality. Raster images are used more for photography, while vector graphics are used more in the professional design world for logos, fonts, etc.
 ### Lossless vs. Lossy Compression
 ### File Formats
 ### File Properties
