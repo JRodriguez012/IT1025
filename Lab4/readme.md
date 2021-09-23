@@ -16,8 +16,13 @@ Ex. myName = 'Javi'
 
 Assignment statements are used to store values in variables. An assignment statement consist of a variable, an equal sign, and the value that will be stored. In the example, the value 'Javi' is stored in the variable myName.
 ### Function:
-### Three data types:
+Ex. print(myName)
 
+A function is a piece of code that does a specific task. Functions sometimes take arguments, values that are passed to the function that the function can then use to do its task. The print function takes a string value as an argument and displays that string on the screen as text.
+### Three data types:
+Ex. integer (5), floating-point number (5.0), strings ('5', 'Javi')
+
+A data type is a category of values. Every value belongs to exactly one data type. The integer (int) data type describes a whole number. Floating-point numbers (floats) are numbers with a decimal point. A string is a group of characters surronded by single quote (') characters that note where the string begins and ends. The string value is the text value where the single quote characters are ignored.
 ## Graphics
 
 ### Raster vs. Vector Graphics
