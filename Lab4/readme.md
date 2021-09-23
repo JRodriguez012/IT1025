@@ -10,11 +10,11 @@ The interactive shell is good for running Python instructions one at a time as t
 ### Variable:
 Ex. myName
 
-A variable is a space in the computer's memory where you can store a single value. The author uses the variable names spam, bacon, and eggs as generic names used for examples. These generic names were inspired by Monty Python "Spam" sketch.
+A variable is a space in the computer's memory where you can store a single value. Variables can be used to retrieve values in different parts of your program. The author uses the variable names spam, bacon, and eggs as generic names used for examples. These generic names were inspired by Monty Python "Spam" sketch.
 ### Assignment statement:
 Ex. myName = 'Javi'
 
-Assignment statements are used to store values in variables. An assignment statement consist of a variable, an equal sign, and the value that will be stored.
+Assignment statements are used to store values in variables. An assignment statement consist of a variable, an equal sign, and the value that will be stored. In the example, the value 'Javi' is stored in the variable myName.
 ### Function:
 ### Three data types:
 
