@@ -30,6 +30,7 @@ A raster image is made up of thousands of tiny pixels. Small raster images lose 
 ### Lossless vs. Lossy Compression
 The decision to use lossless or lossy image depends on what the developer's needs are for the image. If a high quality image is necessary, a lossless image format should be used as all the data from the original image is preserved. If keeping file sizes small is important, a lossy image format should be used as some of the original image data is removed and the file size is reduced.
 ### File Formats
+GIF is a good file format for simple graphics as it supports up to 8 bits per pixel, therefore an image can have up to 256 distinct RGB colors. Unlike the other two formats, GIFs allow for animated images. JPEG is an appropriate format for photos without high contrast. JPEGs allow the designer to adjust the amopunt of compression used. Both GIFs and JPEGs are both suitable for keeping file sizes small. PNG is an good format for illustrations and photos with high contrast. PNGs support transparency including alpha channel transparency. Both GIFs and PNGs use loseless compression, while JPEGs use lossy compression for files.
 ### File Properties
 
 ## Conclusion
