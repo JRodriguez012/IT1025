@@ -34,5 +34,6 @@ GIF is a good file format for simple graphics as it supports up to 8 bits per pi
 ### File Properties
 
 ## Conclusion
+During this lab, I used the Python IDLE for the first time. I have used some other IDEs before like visual studio and Eclipse, but I enjoyed the simplicity of IDLE and the ability to use the interactive shell for learning the basics of the language.
 
 Include your professional conclusion here...
