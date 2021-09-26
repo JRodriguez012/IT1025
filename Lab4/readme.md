@@ -1,7 +1,7 @@
-## Javi Rodriguez / Date
+## Javi Rodriguez / September 26, 2021
 
 ## Executive Summary 
-Include your executive summary here...
+In Lab 4, we learn a few of the basics of the Python programming language and how to use Python IDLE. Python IDLE consists of the interactive shell where single instructions can be run and the file editor where entire Python programs can be written, saved, and loaded for later use. We also learn about raster and vector graphics and the diferrences between the two. Lab 4 explores some of the different file formats that are used to save images. Lastly, I used Vectr to create a logo that will be used in a later lab.
 
 ## Python IDLE
 The interactive shell is good for running Python instructions one at a time as the shell runs the instruction that you typed as soon as you press ENTER. The file editor is for writing entire Python programs. With the file editor, you can type in multiple instructions, save the file, and run the entire program. The file editor can open these saved files to be reloaded and edited later on. You can tell the difference between the file editor and the shell because the shell has the >>> prompt while the file editor does not.
