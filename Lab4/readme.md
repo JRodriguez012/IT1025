@@ -34,6 +34,6 @@ GIF is a good file format for simple graphics as it supports up to 8 bits per pi
 ### File Properties
 
 ## Conclusion
-During this lab, I used the Python IDLE for the first time. I have used some other IDEs before like visual studio and Eclipse, but I enjoyed the simplicity of IDLE and the ability to use the interactive shell for learning the basics of the language.
+During this lab, I used the Python IDLE for the first time. I have used some other IDEs before like visual studio and Eclipse, but I enjoyed the simplicity of IDLE and the ability to use the interactive shell for learning the basics of the language. I learned the difference between raster and vector graphics. After this lab, I have a better understanding of differences between the GIF, JPEG, and PNG file formats, how each of these formats compress files, and the appropriate uses for each format. My favorite part of this lab was creating a logo using Vectr. I have some experience using Inkscape for vector graphics, so I was easily able to use Vectr  after completing the tutorial. I am a huge fan of board games, so I decided to create a logo for a made up board game blog/review site.
 
 Include your professional conclusion here...
