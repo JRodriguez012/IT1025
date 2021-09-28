@@ -1,9 +1,10 @@
-## Your Name / Date
+## Javi Rodriguez / Date
 
 ## Executive Summary 
 Include your executive summary here...
 
 ## Lucidchart
+Lucidchart is a tool used for creating diagrams. It was incredibly easy to sign up and create a diagram for a program. I like being able to plan out the individual pieces of a program and seeing how the program flows as a whole. I think Lucidchart is a great tool for planning and visualizing programs.
 
 ## Introduction to Networking
 
