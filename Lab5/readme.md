@@ -19,7 +19,10 @@ Lucidchart is a tool used for creating diagrams. It was incredibly easy to sign 
 
 ### Networking Hardware
 #### Switch vs. Hub
+A hub connects devices together on an internal network by accepting ethernet connections from those devices through its ports. A hub only knows whether a device is connected to it, it does not know to which device data is supposed to be sent. When data arrives to one of the hub's ports, that data is copied to all of its other ports. A switch is like a hub in that it connects devices on an internal network through ethernet connections. Unlike a hub, a switch stores physical addresses (MAC address) of the devices connected to it. When a switch receives data, it can direct that data to the intended destination port. Switches are preferred to hubs because they reduce unnecessary traffic on the network.
+
 #### Router vs. Switch and Hub
+Switches and hubs are used to exchange data within a local area network. They cannot be used to exchange data outside of their own network because they are not capable of reading IP addresses. The benefit of routers over hubs and switches is its ability to connect networks. A router routes data from one network to another based on their IP address. When a router receives a data packet, the router inspects the data's IP address and determines if the packet was meant for its own network or another network. If the data was meant for its own network it receives it. If the data was not meant for its own network it sends the data off to another network.
 ### Network Topologies
 #### Single point of Failure
 #### Infrastrucutre vs. Wireless Mesh
