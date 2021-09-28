@@ -25,6 +25,7 @@ A hub connects devices together on an internal network by accepting ethernet con
 Switches and hubs are used to exchange data within a local area network. They cannot be used to exchange data outside of their own network because they are not capable of reading IP addresses. The benefit of routers over hubs and switches is its ability to connect networks. A router routes data from one network to another based on their IP address. When a router receives a data packet, the router inspects the data's IP address and determines if the packet was meant for its own network or another network. If the data was meant for its own network it receives it. If the data was not meant for its own network it sends the data off to another network.
 ### Network Topologies
 #### Single point of Failure
+A single point of failure is a part of a network that, if it fails, will cause the entire network to go down. Topologies that experience this issue are the star, ring, and bus topologies.
 #### Infrastrucutre vs. Wireless Mesh
 ### Network Design
 ### NSA/CSS
