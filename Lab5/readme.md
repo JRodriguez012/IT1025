@@ -9,13 +9,13 @@ Lucidchart is a tool used for creating diagrams. It was incredibly easy to sign 
 ## Introduction to Networking
 
 ### Data Transmission
-#### Packet:
-#### Packet-Switching:
-#### IP Address:
+#### Packet: Unit of data.
+#### Packet-Switching: Technology that allows packets of data to be routed base on destination address
+#### IP Address: Unique identifying number
 
-#### DNS:
+#### DNS: Directory of IP address common names
 
-#### Protocol:
+#### Protocol: Set of rules to allow devices to communicate
 
 ### Networking Hardware
 #### Switch vs. Hub
