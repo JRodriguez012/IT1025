@@ -42,6 +42,7 @@ Entering your house requires authentication because you need a key to unlock the
 #### ACL and RBAC
 Access Control List (ACL) and Role-Based Access Control (RBAC) are access control models that determine which users are authorized to read, modify, add, or delete information. ACLs give individual users access to information resources. The advantage of ACLs is that they are simple to understand and maintain with a small number of users and resources. But as the number of users and information resources grow, ACLs become harder to maintain as it is much more tedious when a administrator has to add or remove a user from a large set of information resources. RBACs assign roles to users and then those roles are assigned access to information resources. The advantage of RBACs is that users and roles can be managed seperately which simplifies administration and improves security. The disadvantage of RBACs is the inability to give an individual user specific rights without creating an entirely new role.
 #### Ciphertext, Public Key and Private Key
+
 #### Public Key Cryptography
 
 ### Cryptography
