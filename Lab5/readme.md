@@ -38,6 +38,7 @@ The infrastructure topology uses a combination of wired and wireless devices. In
 #### Security Triad
 Confidentiality, Integrity, and Availability (CIA) make up the security triad. 
 #### Authentication
+Entering your house requires authentication because you need a key to unlock the door. This could be converted to multi-factor authentication with an alarm system. You would the key to unlock the door and the code to disable the alarm system. Checking emails require authentication as you need to know your email address and password. Many email services provide multi-factor authentication by texting a code to a linked phone number. THIRD ONE!!!!!!!
 #### ACL and RBAC
 #### Ciphertext, Public Key and Private Key
 #### Public Key Cryptography
