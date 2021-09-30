@@ -10,13 +10,17 @@ Lucidchart is a tool used for creating diagrams. It was incredibly easy to sign 
 
 ### Data Transmission
 #### Packet: Unit of data. 
-When a message is sent over the internet it is broken down intto smaller pieces, called packets. A packet contains the sender's address, the destination address, a sequence number, and a piece of the overall message that is sent.
-#### Packet-Switching: Technology that allows packets of data to be routed base on destination address
-#### IP Address: Unique identifying number
+When a message is sent over the internet it is broken down into smaller pieces, called packets. A packet contains the sender's address, the destination address, a sequence number, and a piece of the overall message that is sent. Packets can take different routes to the destination and can arrive at different times, therefore the sequence number is used to reassemble packets in the correct order at their destination.
+#### Packet-Switching: Technology that allows packets of data to be routed base on destination address.
+When packets are sent over the internet, routers attempt to find to most optimal route for each packet. This results in packets taking different routes toward their destination. When the packets arrive, they are reassemble into the original message.
+#### IP Address: Unique identifying number.
+Every device on the internet is assigned a unique indentifying number called an IP (Internet Protocol) address. Originally the IPv4 standard was used for IP addresses with a format of four numbers with values of 0 to 255 seperated by a period. The limit of IPv4 addresses and the growth in use of the internet led to the new IPv6 standard. The IPv6 format has eight groups of four hexadecimal digits seperated by semi-colons.
 
-#### DNS: Directory of IP address common names
+#### DNS: Directory of IP address common names.
+DNS (Domain Name Server) acts as a directory of websites on the internet. When access to a host is requested with a domain name, a DNS server returns the IP address of that host.
 
-#### Protocol: Set of rules to allow devices to communicate
+#### Protocol: Set of rules to allow devices to communicate.
+A protocol is the set of rules that govern how communications take place on a network. FIle Transfer Protocol (FTP) sets the rules for transferring files from one host to another.
 
 ### Networking Hardware
 #### Switch vs. Hub
