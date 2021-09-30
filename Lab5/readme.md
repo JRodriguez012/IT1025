@@ -35,7 +35,7 @@ A single point of failure is a part of a network that, if it fails, will cause t
 The infrastructure topology uses a combination of wired and wireless devices. In an infrastructure topology, wired devices are physically connected to a switch and a wireless access point that allows wireless devices to connect to the network is also physically connected to the same switch. The wireless access point acts as a bridge between the wired and wireless networks. The wireless mesh topology is similar to the infrasture topology in that you have a wireless access point physically connected to a switch. But in a wireless mesh, each wireless access point will talk to other wireless access points that are not physically connected to the switch. When a device connects to a wireless access point, its connection is relayed between wireless access points until it reaches back to the modem. I think that the wireless mesh topology is better as the wireless network will remain up if any one of the wireless access points that are not connected to the switch fails. You also have the ability to extend your wireless network as wide as you want without the use of physical cables.
 ### Network Design
 ### NSA/CSS
-
+The National Security Agency's (NSA) role in U.S. cybersecurity is to prevent and eradicate threats towards U.S. national security systems.
 ## Cybersecurity and Encryption
 
 ### Information Systems Security
