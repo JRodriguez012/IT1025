@@ -9,7 +9,8 @@ Lucidchart is a tool used for creating diagrams. It was incredibly easy to sign 
 ## Introduction to Networking
 
 ### Data Transmission
-#### Packet: Unit of data. When a message is sent over the internet it is broken down intto smaller pieces, called packets. A packet contains the sender's address, the destination address, a sequence number, and a piece of the overall message that is sent.
+#### Packet: Unit of data. 
+When a message is sent over the internet it is broken down intto smaller pieces, called packets. A packet contains the sender's address, the destination address, a sequence number, and a piece of the overall message that is sent.
 #### Packet-Switching: Technology that allows packets of data to be routed base on destination address
 #### IP Address: Unique identifying number
 
