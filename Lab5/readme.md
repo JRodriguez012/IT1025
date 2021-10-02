@@ -61,10 +61,11 @@ The orignal message is encrypted using a shift of 16, meaning each letter in the
 #### Frequency Fingerprint
 In my message "frequency fingerprint exploration is really cool", the most frequent letter is 'e' which is typically the most frequent letter in a message. The letters 'a' and 't' do not appear very often in my message which is unusual. The frequency fingerprint would be different for different languages as there are different characters in other languages that do not exist in english, but each language would have it's own frequency fingerprint.
 #### Polyalphabetic Cipher
+A polyalphabetic cipher is a cipher that uses multiple shifts. A shift word is used to encrypt the message as each letter in the shift word is converted to a number that is its position in the alphabet. Then that sequence of numbers is repeated throughout the message to be encrypted. Finally, each letter is encrypted by shifting according to the number below it.
 #### Polyalphabetic Example
-
+My secter message "hello my name is" uses the shift word "javi". After being encrypted the message becomes "rfhuy nu wkna rc". The frequency fingerprint of the message is much more evenly distributed than the caesar cipher.
 #### Brute-Force
-
+A brute-force attack decrypts a ciphertext by attempting every possible decryption key. Brute-force attacks are very effective against the Caesar cipher because there are not that many possible keys that can be used.
 ## Conclusion
 Include your professional conclusion here...
 
