@@ -53,6 +53,7 @@ Public key encryption allows users to use a shared key to send secure messages w
 ### Cryptography
 #### Encryption
 cryptography is a growing field
+
 shofjewhqfxo yi q whemydw vyubt
 
 The orignal message is encrypted using a shift of 16, meaning each letter in the encrypted message derives 16 positions away from the original letter. Therefore, 'a' becomes 'q', 'b' becomes 'r', 'c' becomes 's', etc. To decrypt the message, you must subtract the shift of 16 from each letter.
