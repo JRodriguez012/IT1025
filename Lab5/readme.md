@@ -59,6 +59,7 @@ shofjewhqfxo yi q whemydw vyubt
 The orignal message is encrypted using a shift of 16, meaning each letter in the encrypted message derives 16 positions away from the original letter. Therefore, 'a' becomes 'q', 'b' becomes 'r', 'c' becomes 's', etc. To decrypt the message, you must subtract the shift of 16 from each letter.
 
 #### Frequency Fingerprint
+In my message "frequency fingerprint exploration is really cool", the most frequent letter is 'e' which is typically the most frequent letter in a message. The letters 'a' and 't' do not appear very often in my message which is unusual. The frequency fingerprint would be different for different languages as there are different characters in other languages that do not exist in english, but each language would have it's own frequency fingerprint.
 #### Polyalphabetic Cipher
 #### Polyalphabetic Example
 
