@@ -2,7 +2,7 @@
 
 ## Executive Summary 
 Lab 5 covers diagramming with Lucidchart, the basics of networking, cybersecurity and encryption. Lucidchart is a diagramming tool that can be used for planning software, networks, etc. We learn some of the fundamental terms used in networking and the hardware that is linked together using different topologies to create a network. This lab 
-also covers topics of cybersecurity such as the security triad, authentication, and access control models that are used to determine which users have access to specific information. Finally lab 5 explores cryptography, what is encryption and the different methods and ciphers used to encode and decode messages.
+also covers topics of cybersecurity such as the security triad, authentication, and access control models that are used to determine which users have access to specific information. Finally lab 5 explores cryptography, what encryption is and the different methods and ciphers used to encode and decode messages.
 
 ## Lucidchart
 Lucidchart is a tool used for creating diagrams. It was incredibly easy to sign up and create a diagram for a program. I like being able to plan out the individual pieces of a program and seeing how the program flows as a whole. I think Lucidchart is a great tool for planning and visualizing programs. 
