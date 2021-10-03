@@ -69,5 +69,5 @@ My secter message "hello my name is" uses the shift word "javi". After being enc
 #### Brute-Force
 A brute-force attack decrypts a ciphertext by attempting every possible decryption key. Brute-force attacks are very effective against the Caesar cipher because there are not that many possible keys that can be used.
 ## Conclusion
-Include your professional conclusion here...
+In Lab 5, I made a diagram for a program that prints if a number is big or small and a diagram for a computer network using Lucidchart. I found Lucidchart to be an intuitive tool for creating diagrams. I learned the fundamentals of networking and some of the hardware used in computer networks. I understood what routers did already, but I didn't know much about hubs and switches or how they worked in a network. I also learned some key concepts of cybersecurity. I found the section on cryptography and the different ciphers used to encrypt messages to be the most interesting part of this lab.
 
