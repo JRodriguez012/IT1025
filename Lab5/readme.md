@@ -1,4 +1,4 @@
-## Javi Rodriguez / Date
+## Javi Rodriguez / October 2, 2021
 
 ## Executive Summary 
 Lab 5 covers diagramming with Lucidchart, the basics of networking, cybersecurity and encryption. Lucidchart is a diagramming tool that can be used for planning software, networks, etc. We learn some of the fundamental terms used in networking and the hardware that is linked together using different topologies to create a network. This lab 
