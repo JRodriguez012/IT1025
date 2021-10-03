@@ -37,7 +37,7 @@ The infrastructure topology uses a combination of wired and wireless devices. In
 ### Network Design
 The design for my network uses an infrastructure topology. The router is connected to a switch which is connected to two computers, a printer, and a wireless access point. The wireless access point is used to connect wireless devices to the network.
 ### NSA/CSS
-The National Security Agency's (NSA) role in U.S. cybersecurity is to prevent and eradicate threats towards U.S. national security systems.
+The National Security Agency's (NSA) role in U.S. cybersecurity is to prevent and eradicate threats towards U.S. national security systems. The NSA collaborates with various private industries, academics, and researches to promote awareness of and strengthen U.S. cybersecurity.
 ## Cybersecurity and Encryption
 
 ### Information Systems Security
