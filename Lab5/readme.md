@@ -51,7 +51,7 @@ Access Control List (ACL) and Role-Based Access Control (RBAC) are access contro
 #### Ciphertext, Public Key and Private Key
 Encryption is a process of encoding data so that it can only be accessed by authorized individuals. Ciphertext is an encoded plain text message that can only be read after being decoded. Public key encryption uses two keys, a public key and a private key. You use the public key to encode a message, transforming your plaintext message into ciphertext, and send it. The recipent then uses the private key to decode the message, transforming the ciphertext into a plaintext message.
 #### Public Key Cryptography
-Public key encryption allows users to use a shared key to send secure messages without knowing anything about each other.
+Public key encryption allows users to use a shared key to send secure messages without knowing anything about each other. Public key encryption uses two keys, a shared public key and a private key that is different for each user. This makes it more difficult for an unwanted third party to intercept and decode the message. 
 ### Cryptography
 #### Encryption
 cryptography is a growing field
