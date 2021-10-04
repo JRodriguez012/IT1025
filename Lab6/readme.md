@@ -1,4 +1,4 @@
-## Your Name / Date
+## Javi Rodriguez / Date
 
 ## Executive Summary 
 Include your executive summary here...
@@ -6,6 +6,7 @@ Include your executive summary here...
 ## Internet Architecture
 ### Internet Protocol
 #### IP Address
+Internet Protocol (IP) address is a unique number assigned to a specific computer that is connected to the internet. IPv4 is the original version of an IP address. IPv4 address are made up of four numbers between 0 and 255, separated by dots. IPv4 can only have around four billion unique IP addresses which is not enough for the number of internet devices used today. IPv6 was developed to increase the number of available IP addresses. IPv6 addresses are made up of eight hexadecimal numbers, separated by colons. IPv6 has enough space for 340 undecillion addresses.
 #### ICANN
 
 ### TCP/IP
