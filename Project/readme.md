@@ -6,7 +6,7 @@ Include your executive summary
 
 ### Part Part 1: Project Intent and Plan
 
-Describe the process you will take to become co-op ready (include dates of seminars you will plan if you elect Option 1 OR, a brief description of the project you plan to implement (programming, research etc.)
+I intend to pursue option 2 and implement code. I plan to create a game using Pyton and Pygame. I want to create a arcade shooter game where the player has three lives to clear waves of enemies to score points. The player can move with W, A, S, D, and can shoot with spacebar. Enemies will spawn off screen and chase the player. The player will earn points by destroying enemies. When an enemy hits a player, the player will lose a life. The game is over when the player loses three lives.
 
 ### Project Part 2:
 
