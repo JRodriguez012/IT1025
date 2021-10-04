@@ -11,6 +11,7 @@ Internet Protocol (IP) address is a unique number assigned to a specific compute
 ICANN is a not-for-profit public-benefit corporation with a mission of keeping the internet secure and stable. ICANN is the operator of Internet Assigned Numbers Authority (IANA) functions and allocates IP address blocks to the five Regional Internet Registries (RIR) around the world. Those RIRs then allocate smaller blocks to Internet Service Providers (ISP). The ISPs then assign address to individual internet connections. ICANN is at the top of the herachy for distributing IP addresses.
 ### TCP/IP
 #### Responsibility of TCP/IP
+Transmission Control Protocol / Internet Protocol (TCP/IP) is responsible for defining the details of how data is sent and received through network communication hardware.
 #### Client-Server Model and TCP/IP
 #### Layers
 #### Application Layer
