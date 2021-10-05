@@ -28,6 +28,7 @@ Hypertext Transfer Protocol (HTTP) is a protocol used for viewing web pages.
 ### Reasons to Secure Browser
 As web browsers are frequently used, you should secure your browser to reduce the risk of your computer being compromised. An unsecure browser can lead to computer problems caused potentially by spyware being installed or even an intruder taking control of your computer. Attackers often compromise computers by exploiting vulnerabilities in web browsers through compromised or malicious websites. 
 ### Risk Explained
+JavaScript is a scripting language that allows web page authors to add more interactivity to a web page. This capability can be abused by attackers introducing vulnerabilities such as Cross-Site Scripting. Cross-Site Scripting permits an attacker to leverage the trust that you have with a website. This could potentially allow an attacker to collect your personal data through another site.
 
 ## Internet Programming
 ### World Wide Web Consortium
