@@ -11,8 +11,9 @@ Internet Protocol (IP) address is a unique number assigned to a specific compute
 ICANN is a not-for-profit public-benefit corporation with a mission of keeping the internet secure and stable. ICANN is the operator of Internet Assigned Numbers Authority (IANA) functions and allocates IP address blocks to the five Regional Internet Registries (RIR) around the world. Those RIRs then allocate smaller blocks to Internet Service Providers (ISP). The ISPs then assign address to individual internet connections. ICANN is at the top of the herachy for distributing IP addresses.
 ### TCP/IP
 #### Responsibility of TCP/IP
-Transmission Control Protocol / Internet Protocol (TCP/IP) is responsible for defining the details of how data is sent and received through network communication hardware.
+Transmission Control Protocol / Internet Protocol (TCP/IP) is responsible for defining the details of how data is sent and received through network communication hardware. TCP/IP is designed such that each computer has a unique IP adress and each IP address can send and receive data over different ports.
 #### Client-Server Model and TCP/IP
+In a TCP/IP connection, the "server" is a computer that is "listening" for incoming connections and chooses to either accept or reject those connections. The "client" is a computer that attempts to initiate a connection with the server, therefore the client needs to know the IP address of the server to connect to. Once a connection between the client and server, data can be sent in either direction across the network. This connection remains open until either the client or server terminates the connection. 
 #### Layers
 #### Application Layer
 
