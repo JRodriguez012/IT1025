@@ -32,6 +32,7 @@ JavaScript is a scripting language that allows web page authors to add more inte
 
 ## Internet Programming
 ### World Wide Web Consortium
+Tim Berners-Lee is the inventor of the World Wide Web and director of the World Wide Web Consortium (W3C).
 ### HTML5 and CSS
 ### HTML and XML
 
