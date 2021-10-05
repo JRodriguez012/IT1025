@@ -15,7 +15,7 @@ Transmission Control Protocol / Internet Protocol (TCP/IP) is responsible for de
 #### Client-Server Model and TCP/IP
 In a TCP/IP connection, the "server" is a computer that is "listening" for incoming connections and chooses to either accept or reject those connections. The "client" is a computer that attempts to initiate a connection with the server, therefore the client needs to know the IP address of the server to connect to. Once a connection between the client and server, data can be sent in either direction across the network. This connection remains open until either the client or server terminates the connection. 
 #### Layers
-Layers are important to changing technology because individual layers can be modified without affecting any of the other layers. This allows us to remain flexible to changes and stops us from having to make changes to the entire software.
+Layers are important to changing technology because individual layers can be modified without affecting any of the other layers. This allows us to remain flexible and stops us from having to make changes to the entire software each time an individual layer is changed.
 #### Application Layer
 Application protocols run on the "application" layer. HTTP, FTP, POP3, SMTP, SNMP are application protocols that run on the application layer of the TCP/IP protocol suite.
 
