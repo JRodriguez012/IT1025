@@ -21,10 +21,12 @@ Application protocols run on the "application" layer. HTTP, FTP, POP3, SMTP, SNM
 
 ## Internet Security
 ### HTTP and Client-Server Model
+Hypertext Transfer Protocol (HTTP) is a protocol used for viewing web pages.
 ### Protocols for Secure HTTP
 
 ## Securing your Web Browser
 ### Reasons to Secure Browser
+As web browsers are frequently used, you should secure your browser to reduce the risk of your computer being compromised. An unsecure browser can lead to computer problems caused potentially by spyware being installed or even an intruder taking control of your computer. Attackers often compromise computers by exploiting vulnerabilities in web browsers through compromised or malicious websites. 
 ### Risk Explained
 
 ## Internet Programming
