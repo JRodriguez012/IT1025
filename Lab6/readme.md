@@ -34,8 +34,9 @@ JavaScript is a scripting language that allows web page authors to add more inte
 ### World Wide Web Consortium
 Tim Berners-Lee is the inventor of the World Wide Web and director of the World Wide Web Consortium (W3C). W3C is a Web standards organization which develops specifications, guidelines, software, and tools to lead the Web to its full potential. The Extensible Markup Language (XML) is a standard that uses a text-based format for representing structured information such as documents, data, transactions, etc. XML is important for reliably sharing structured information locally and across networks between programs, between people, or between computers and people.
 ### HTML5 and CSS
+Hyper Text Markup Language (HTML) is the standard markup language for creating web pages. HTML is used to describe the structure and content that makes up a web page. Cascading Style Sheet (CSS) is used to format the layout of a web page. CSS alows you to control the colors of fonts and backgrounds, the size of text, spacing between elements, etc. I used HTML and CSS to make a web page that talks about horror movies. I used HTML to display the text for the web page and link to a Rotten Tomatoes list of horror movies. I used CSS to change the background color to red, change the color of the text and link to white, change the sizes of and center the elements, and add a border around the paragraph.
 ### HTML and XML
-
+Extensible Markup Language (XML) is used to store and transport data. XML does not do anything. HTML is designed to data, while XML is designed to carry data. Unlike HTML, XML does not have any predefined tags. XML's tags are defined by the author of the XML document.
 ## Components of a URL
 
 ## Conclusion
