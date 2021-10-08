@@ -40,18 +40,16 @@ Extensible Markup Language (XML) is used to store and transport data. XML does n
 ## Components of a URL
 #### Scheme: https
 Every URL begins with the scheme. The scheme tells the browser what type of address the URL is so that the browser connects to it correctly. Typical schemes for web browsing are http and https. A scheme is always part of the URL, but is not always displayed by the browser.
-
 #### Domain: www.amazon.com
 The domain name is the most prominent component of a URL. Different pages on the same site will typically use the same domain name. Each segment of the domain name seperated by a perios is called a domain.
-
 #### Top level domain: .edu
-
-
-default page - no file path provided
-
-parameters - result of search
-
-anchor - specific location on a page
+The domain on the right of a URL is called the top-level domain. This domain usually gives you more information on what kind of site it is. The top-level domain .gov is used for goverment sites in the United States. The domain .edu is reserved for organizations with a focus on education like universities.
+#### Default page: no file path provided
+URLs that end with a domain name and no file path will usually load  a default page. This page is designed to help users navigate to a specific page on the site.
+#### Parameters: result of search
+Parameters are strings of characters that sometimes appear after the path Parameters can be seen after performing a search on a site like Google or YouTube.
+#### Anchor: specific location on a page
+The anchor tells the browser to load or scroll to a specific part of the page. The anchor also appears after the path and typicall begins with a hashtag.
 
 ## Conclusion
 Include your conclusion here...
