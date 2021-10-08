@@ -38,6 +38,17 @@ Hyper Text Markup Language (HTML) is the standard markup language for creating w
 ### HTML and XML
 Extensible Markup Language (XML) is used to store and transport data. XML does not do anything. HTML is designed to data, while XML is designed to carry data. Unlike HTML, XML does not have any predefined tags. XML's tags are defined by the author of the XML document.
 ## Components of a URL
+scheme - htttps
+
+domain - www.amazon.com
+
+top level domain - .edu
+
+default page - no file path provided
+
+parameters - result of search
+
+anchor - specific location on a page
 
 ## Conclusion
 Include your conclusion here...
