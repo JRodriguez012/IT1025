@@ -38,11 +38,14 @@ Hyper Text Markup Language (HTML) is the standard markup language for creating w
 ### HTML and XML
 Extensible Markup Language (XML) is used to store and transport data. XML does not do anything. HTML is designed to data, while XML is designed to carry data. Unlike HTML, XML does not have any predefined tags. XML's tags are defined by the author of the XML document.
 ## Components of a URL
-scheme - htttps
+#### Scheme: https
+Every URL begins with the scheme. The scheme tells the browser what type of address the URL is so that the browser connects to it correctly. Typical schemes for web browsing are http and https. A scheme is always part of the URL, but is not always displayed by the browser.
 
-domain - www.amazon.com
+#### Domain: www.amazon.com
+The domain name is the most prominent component of a URL. Different pages on the same site will typically use the same domain name. Each segment of the domain name seperated by a perios is called a domain.
 
-top level domain - .edu
+#### Top level domain: .edu
+
 
 default page - no file path provided
 
