@@ -1,4 +1,4 @@
-## Javi Rodriguez / Date
+## Javi Rodriguez / October 10, 2021
 
 ## Executive Summary 
 Lab 6 covers internet architecture, internet security, internet programming, and the components of URLs. The internet uses different protocols to define how devices connect to each other, how data is sent and received, and how that data is secured when sent over the internet. This lab discusses vulnerabilities that exist in web browser and what you can do to minimize the risk of having your device compromised through those vulnerabilities. In this lab, we learn some of the basics of HTML and CSS. I used HTML and CSS to create a web site that discusses horror movies and give it an appropriate theme. Finally, lab 6 breaks down the components that make up URLs and what these components tell the user about a particular website.
