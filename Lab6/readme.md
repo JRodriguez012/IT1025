@@ -21,7 +21,7 @@ Application protocols run on the "application" layer. HTTP, FTP, POP3, SMTP, SNM
 
 ## Internet Security
 ### HTTP and Client-Server Model
-Hypertext Transfer Protocol (HTTP) is a protocol used for viewing web pages.
+Hypertext Transfer Protocol (HTTP) is a protocol used for viewing web pages on the internet. The client requests a web page from a server by typing a domain in the browser in which http:// is then added to the beginning of the domain. The server then sends the information to view the web page back to the client. In HTTP, all information is sent in clear text.
 ### Protocols for Secure HTTP
 
 ## Securing your Web Browser
