@@ -23,6 +23,7 @@ Application protocols run on the "application" layer. HTTP, FTP, POP3, SMTP, SNM
 ### HTTP and Client-Server Model
 Hypertext Transfer Protocol (HTTP) is a protocol used for viewing web pages on the internet. The client requests a web page from a server by typing a domain in the browser in which http:// is then added to the beginning of the domain. The server then sends the information to view the web page back to the client. In HTTP, all information is sent in clear text.
 ### Protocols for Secure HTTP
+Secure HTTP protects data by using either the Secure Sockets Layer (SSL) or Transport Layer Security (TLS) protocol. SSL uses public key encryption to secure data. When a computer connects to a web site that uses SSL, the computers web browser will ask the web site to identify itself. The web server will then send the computer a copy of its SSL certificate that is used to authenticate the site's identity. TLS is the latest standard cryptographic protocol and successor to SSL. TLS authenticates the server, client, and encrypts data.
 
 ## Securing your Web Browser
 ### Reasons to Secure Browser
