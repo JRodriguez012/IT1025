@@ -52,4 +52,4 @@ Parameters are strings of characters that sometimes appear after the path Parame
 The anchor tells the browser to load or scroll to a specific part of the page. The anchor also appears after the path and typicall begins with a hashtag.
 
 ## Conclusion
-Include your conclusion here...
+In this lab, we discuss the protocols used to connect devices, send data, and secure data over the internet. The TCP/IP and HTTP protocols use client-server models in which one device acts as a "client" that requests a connection with, sends data to, and receives data from a "server". This lab also discusses some of the vulnerabilities in browsers and what you can do to make your browser more secure. My favorite part of this lab was using HTML and CSS to make a web page. I have used HTML and CSS before but I never spent much time making web pages. I had a lot of fun styling my page to fit with my topic of horror movies. Lastly, this lab breaks down the components of a URL. I understood many of these terms already but I learned what parameters and anchors are and how they are used.
