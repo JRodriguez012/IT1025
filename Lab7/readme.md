@@ -24,7 +24,7 @@ The instantiated objects of the shark class are sammy, stevie, and javi.
 ### Inheritance
 Inheritance in OOP is the ability for classes to have children. The parent class is known as the base class. The child class is called a derived class. The derived class can inherit all of the attributes and behaviors of the base class while also having its own additional attributes and behaviors. The shark class could have a child class called HammerheadShark that has a name and can swim like the base shark class but also has attributes and behaviors specific to hammerhead sharks.
 ### Encapsulation and Abstraction
-
+Abstraction is the process of defining a real-life object into the attributes and methods of a class. The shark class as it is defines a shark as something that has a name, can swim, and can be awesome. We could abstract it further as something that has gills and eats. Encapsulation is the mechanism of binding data together and hiding it from the outside world. We can encapsulate the steps of doing something into a method of a class. The shark's behaviors are encapsulated in the shark class's methods. When we call the swim method we don't know exactly what swim is doing unless we look inside the methods definition.
 ## Unified Modeling Language (UML)
 
 ## Conclusion
