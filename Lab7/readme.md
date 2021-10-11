@@ -1,7 +1,7 @@
 ## Your Name / Date
 
 ## Executive Summary 
-Include your executive summary here...
+Lab 7 explores file compression, object oriented programming in Python, and the concepts behind object orient programming in general. File compression is used to make file sizes smaller. In this lab, we use object oriented programming to create a Python program that defines a shark class that is used to instantiate sharks that have names, can swim, and be awesome. We also discuss object oriented concepts such as instatiated objects, inheritance, abstraction, and encapsulation. Finally, we used Lucidchart to create a diagram to represent the shark class.
 
 ## File Compression
 ### Purpose of File Compression
