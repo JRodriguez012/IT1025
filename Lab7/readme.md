@@ -20,7 +20,9 @@ The purpose of the constructor is to initialize the data of an instantiated obje
 A class is a blueprint for an object created by a programmer. A class defines attributes and methods that can be used by an object of the class. An object is an instance of a class. This means an object is its own seperate entity that follows the rules and definitions set by a class. To "instantiate an object from a class" is to initialize an object based on the definition that is set by the class for that object.
 ## Object Oriented Concepts
 ### Instantiated Objects
+The instantiated objects of the shark class are sammy, stevie, and javi.
 ### Inheritance
+Inheritance in OOP is the ability for classes to have children. The parent class is known as the base class. The child class is called a derived class. The derived class can inherit all of the attributes and behaviors of the base class while also having its own additional attributes and behaviors. The shark class could have a child class called HammerheadShark that has a name and can swim like the base shark class but also has attributes and behaviors specific to hammerhead sharks.
 ### Encapsulation and Abstraction
 
 ## Unified Modeling Language (UML)
