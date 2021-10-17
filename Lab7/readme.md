@@ -26,7 +26,7 @@ Inheritance in OOP is the ability for classes to have children. The parent class
 ### Encapsulation and Abstraction
 Abstraction is the process of defining a real-life object into the attributes and methods of a class. The shark class, as it is, defines a shark as something that has a name, can swim, and can be awesome. We could abstract it further as something that has gills and eats. Encapsulation is the mechanism of binding data together and hiding it from the outside world. We can encapsulate the steps of doing something into a method of a class. The shark's behaviors are encapsulated in the shark class's methods. When we call the swim method, we don't know exactly what swim is doing unless we look inside the methods definition.
 ## Unified Modeling Language (UML)
-My class diagram has the class name, "Shark", at the top. Next it has its only property, "name', which is private. Finally, it has two public methods
+My class diagram has the class name, "Shark", at the top. Next it has its only property, "name', which is private. Finally, it has two public methods swim() and be_awesome().
 
 ## Conclusion
 In this lab, I compressed my SVG graphic which almost halved its file size. I learned the concepts behind object oriented programming. I also learned how to create classes, define methods, and instantiate objects in Python. My experience with this lab will be extremely useful for my project in which I will create a game using Python. I am excited to apply this knowledge when creating my own classes for my project. Lastly, I used Lucidchart to create a class diagram to represent the shark class. I like being able to visualize a class's attributes and functionality along with its inheritance with Lucidchart.
