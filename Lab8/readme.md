@@ -5,6 +5,7 @@ Include your executive summary here...
 
 ## Data, Information and Knowledge
 ### Compare and contrast data, information and knowledge
+Data are the raw facts that often do not have context. Data can be quantative, a value that can be measured, or qualitative, a description. Information is processed data that has context, relevance, and purpose. Information typically manipulates data to see trends in patterns in the data. Knowledge is a perception about the relationships among relevant facts. Knowledge is information that facilitates action.
 
 ### Relational Data
 #### Primary Key:
