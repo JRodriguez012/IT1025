@@ -19,7 +19,7 @@ Data are the raw facts that often do not have context. Data can be quantative, a
 
 ## Structured Query Language (SQL) 
 ### RDBMS and SQL
-Relational Database Management System (RDBMS) is the basis for SQL. RDBMS uses database objects called tables to store data. A table is a collection of related data entries that is broken up into smaller entries called fields. Structured Query Language (SQL) is a standard language that is used to retrieve data from and manipulate data in relational databases. SQL is the language used to interact with RDBMS.
+Relational Database Management System (RDBMS) is the basis for SQL. RDBMS uses database objects called tables to store data. A table is a collection of related data entries that is broken up into smaller entries called fields. Structured Query Language (SQL) is a standard language that is used to retrieve data from and manipulate data in relational databases. SQL is the language used to access and interact with RDBMS.
 ### Relationship, Primary and Foreign Keys
 
 ## SQL Injections
