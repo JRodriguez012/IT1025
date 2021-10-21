@@ -31,7 +31,7 @@ SQL injections are a security threat because they can be used to access data ins
 ### Code of Ethics
 A code of ethics establishes guidelines for what is considered acceptable behavior among a professional or social group. The Association for Computing Machinery (ACM) created a code of ethics to identify common issues among and provide ethical instructions for computing professionals.
 ### Intellectual Property
-A trademark is a word, phrase, logo, shape, or sound that identifies a source of goods or services. Trademarks 
+A trademark is a word, phrase, logo, shape, or sound that identifies a source of goods or services. Trademarks are intended to protect intellectual property and protect consumers from being deceived by someone disguised as a more well known company. My svg image was automatically copyrighted when I created it, but it would be important to register for a copyright if I intend to use my svg image for commercial purposes. A registered copyright is needed to take legal action against someone who used the copyrighted work without permission.
 ### Information Collection
 
 ## Conclusion
