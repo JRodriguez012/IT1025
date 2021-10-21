@@ -23,7 +23,7 @@ Relational Database Management System (RDBMS) is the basis for SQL. RDBMS uses d
 ### Relationship, Primary and Foreign Keys
 
 ## SQL Injections
-
+SQL injections are a security threat because they can be used to access data inside or destroy your database. SQL injections use web page inputs to place malicious code in SQL statements. To reduce threats from SQL injections, use SQL parameters. SQL parameters are values that are added to an SQL query at execution time, in a controlled maner. SQL parameters are checked by the SQL engine to ensure they are treated literally, not as part of SQL to be executed.
 ## Ethical and Legal Implications
 ### Code of Ethics
 ### Intellectual Property
