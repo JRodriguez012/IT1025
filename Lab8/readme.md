@@ -28,8 +28,9 @@ Relational Database Management System (RDBMS) is the basis for SQL. RDBMS uses d
 SQL injections are a security threat because they can be used to access data inside or destroy your database. SQL injections use web page inputs to place malicious code in SQL statements. To reduce threats from SQL injections, use SQL parameters. SQL parameters are values that are added to an SQL query at execution time, in a controlled maner. SQL parameters are checked by the SQL engine to ensure they are treated literally, not as part of SQL to be executed.
 ## Ethical and Legal Implications
 ### Code of Ethics
-A code of ethics establishes guidelines for what is considered acceptable behavior among a professional or social group. The Association for Computing Machinery (ACM)
+A code of ethics establishes guidelines for what is considered acceptable behavior among a professional or social group. The Association for Computing Machinery (ACM) created a code of ethics to identify common issues among and provide ethical instructions for computing professionals.
 ### Intellectual Property
+A trademark is a word, phrase, logo, shape, or sound that identifies a source of goods or services. Trademarks 
 ### Information Collection
 
 ## Conclusion
