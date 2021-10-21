@@ -1,4 +1,4 @@
-## Your Name / Date
+## Javi Rodriguez / October 21, 2021
 
 ## Executive Summary 
 Include your executive summary here...
@@ -8,10 +8,11 @@ Include your executive summary here...
 Data are the raw facts that often do not have context. Data can be quantative, a value that can be measured, or qualitative, a description. Information is processed data that has context, relevance, and purpose. Information typically manipulates data to see trends in patterns in the data. Knowledge is a perception about the relationships among relevant facts. Knowledge is information that facilitates action.
 
 ### Relational Data
-#### Primary Key: The primary key for the customers table would be a customer ID. The primary keys for the orders table would be a customer ID and an order number.
-#### Relationship between customers and orders: The customers and order tables would be related by their shared customer ID.
-#### Foreign key of orders table:
+#### Primary Key: The primary key for the customers table would be a customer ID. The primary key for the orders table would be an order number.
+#### Relationship between customers and orders: The customers and orders tables would be related by a common customerID field because orders have to be purchased by a customer.
+#### Foreign key of orders table: The foreign key for the orders table is the customerID field as it connects to the primary key of the customers table.
 ### Field Data Types
+It is important to properly define the data type of a field so that we can properly and efficently process the data. A data type tells the database what functions can be performed with the data. For example, mathematical functions can only be performed on number data types. Another reason to define the data type is so that the proper amount of storage space is allocated for the data.
 
 ### Big Data
 #### Four "V"s of Big Data
