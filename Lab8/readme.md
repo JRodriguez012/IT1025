@@ -18,7 +18,7 @@ It is important to properly define the data type of a field so that we can prope
 #### Four "V"s of Big Data
 The four "V"s of big data are volume, variety, velocity, variability. Volume is related to the enormous size of big data. Variety refers to heterogeneous sources of both structured and unstructured data. Data can be in the form of spreadsheets, audio, pictures, videos, etc. Velocity refers to the speed at which data is generated and processed. Variability is the inconsistency which is shown by data, hampering the process of managing data effectively.
 #### Technology Driving the need for Big Data
-Technology such as search engines and social media platforms have significantly increased the need for big data.
+Technology such as search engines and social media platforms have significantly increased the need for big data. These technologies process hundreds of terrabytes of data every day that includes text, photos, videos, audio, etc.
 
 ## Structured Query Language (SQL) 
 ### RDBMS and SQL
