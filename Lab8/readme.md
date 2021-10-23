@@ -1,7 +1,7 @@
 ## Javi Rodriguez / October 21, 2021
 
 ## Executive Summary 
-Lab 8 explores data, how data is stored, how data can be accessed and modified with SQL, and the ethics of collecting data. There are distinctions between the terms data, information, and knowledge. We store data in relational databases which are tables of related data points. To access or modify these data points, we can use Structured Query Language (SQL). There are many ethichal and legal concerns over collecting data. Legislative acts like COPPA, FERPA, and HIPAA place legal restrictions on the type of data that can be collected and shared.
+Lab 8 explores data, how data is stored, how data can be accessed and modified with SQL, and the ethics of collecting data. There are distinctions between the terms data, information, and knowledge. We store data in relational databases which are tables of related data points. To access or modify these data points, we can use Structured Query Language (SQL). Lastly, we explore the ethical and legal concerns over collecting data. Legislative acts like COPPA, FERPA, and HIPAA place legal restrictions on the type of data that can be collected and shared.
 
 ## Data, Information and Knowledge
 ### Compare and contrast data, information and knowledge
