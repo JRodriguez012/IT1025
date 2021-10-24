@@ -12,7 +12,7 @@ I intend to pursue option 2 and implement code. I plan to create a game using Py
 
 My program is a top down shooter game. In this game, you play as a small cube man who must shoot deformed cube enemies to survive. The player can move using the W, A, S, D keys. The player cannot move off of the screen. The player can rotate by moving the mouse and can shoot in the direction of the mouse by holding down the left mouse button. Enemies spawn in a random position on the screen every 3 seconds. The player must shoot an enemy to kill it. The game is over when an enemy touches the player.
 
-####HOW TO PLAY:
+#### HOW TO PLAY:
 * W,A,S,D to move
 * Move mouse to look around/aim
 * Hold left mouse button to shoot
